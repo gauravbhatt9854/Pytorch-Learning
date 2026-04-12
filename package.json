@@ -1,0 +1,24 @@
+{
+  "name": "pytouch-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravbhatt9854/Pytorch-Learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravbhatt9854/Pytorch-Learning/issues"
+  },
+  "homepage": "https://github.com/gauravbhatt9854/Pytorch-Learning#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
