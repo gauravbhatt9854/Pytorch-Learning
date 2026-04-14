@@ -11,6 +11,12 @@ ENV/
 .pt_env/
 .venv/
 
+Tensors & setup/data
+Tensors & setup/data2
+
+"Tensors & setup/data"
+"Tensors & setup/data2"
+
 # PyTorch checkpoints / models
 *.pt
 *.pth
